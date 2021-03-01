@@ -1,2 +1,1 @@
-# ga_thermal
-# ga_thermal
+# Genetic Algorithm for Thermal Calculations 
