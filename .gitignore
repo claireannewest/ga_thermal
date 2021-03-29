@@ -1,8 +1,13 @@
 # Jupyter notebook #
-####################
+#######################
 .ipynb_checkpoints
 
 # OS generated files #
-######################
+########################
 .DS_Store
 .DS_Store?
+
+# Emacs files #
+########################
+*~
+#*
